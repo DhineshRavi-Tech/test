@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@devexpress/dx-react-core": "3.0.3",
+    "@devexpress/dx-react-grid": "3.0.3",
+    "@devexpress/dx-react-grid-material-ui": "3.0.3",
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
+    "@mui/icons-material": "5.8.4",
+    "@mui/lab": "5.0.0-alpha.88",
+    "@mui/material": "5.8.6",
+    "@mui/styles": "5.8.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "name": "rvjt4w",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
